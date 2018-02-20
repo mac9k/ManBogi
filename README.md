@@ -2,7 +2,7 @@
 Android Client and Server 
 
 Server :
-Server is not wokring becuase of comments.
+Server is not wokring becuase.
 This is the Parsing program. ex) Naver, Daum, Nate
 
 
