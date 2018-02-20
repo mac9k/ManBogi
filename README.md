@@ -2,7 +2,7 @@
 Android Client and Server 
 
 Server :
-Server is not wokring becuase.
+Server is not wokring.
 This is the Parsing program. ex) Naver, Daum, Nate
 
 
